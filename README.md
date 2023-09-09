@@ -5,7 +5,7 @@ This is a website on the impact of mobile phones on youth.
 ### This website on the impact of Mobile phones  has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** -https://orange-field-016d69e00.3.azurestaticapps.net/
+**Project Link** -https://nice-sea-0ab57b800.3.azurestaticapps.net
 
 **Demo Video Link** - https://youtu.be/h12NRKUEB64?feature=shared
 
